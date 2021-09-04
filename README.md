@@ -4,12 +4,11 @@
 
 A project cannot be done alone, and when it does, it is done well. These repositories represent that goal in an intuitive, beautiful and complete way.⚡️. This profile is a constant weekly evolution of several technical achievements that I have obtained to create something amazing every day!
 
-<img src="https://64.media.tumblr.com/9bdbeb956bf08d93025644e037172ee0/tumblr_np7jumRhbe1ux2wvpo1_500.gifv">
 ⚡
 <h3>⚡️Skills</h3>
 
 <b>Dev</b>
-
+<img src="https://64.media.tumblr.com/9bdbeb956bf08d93025644e037172ee0/tumblr_np7jumRhbe1ux2wvpo1_500.gifv">
 <ul>
   <li>React</li>
   <li>Node</li>
@@ -29,7 +28,7 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 
   
 <b>Sec</b>
-
+<img src="https://64.media.tumblr.com/f26278a9fe26386463225af451084cf2/tumblr_p4z5qpa6po1wzvt9qo1_400.gifv">
 <ul>
   <li>Metasploit</li>
   <li>Nmap</li>
@@ -46,5 +45,4 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 
 
 
-<img src="https://64.media.tumblr.com/f26278a9fe26386463225af451084cf2/tumblr_p4z5qpa6po1wzvt9qo1_400.gifv">
 <h3>hack the world</h3>
