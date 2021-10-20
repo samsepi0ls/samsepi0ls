@@ -92,5 +92,5 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 </a>
 
-![Snake animation](https://github.com/eur0nymous/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eur0nymous/eur0nymous/blob/output/github-contribution-grid-snake.svg)
 
