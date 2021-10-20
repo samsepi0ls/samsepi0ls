@@ -9,8 +9,8 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 <div>
 <a href="https://github.com/eur0nymous"></a>
 
-<img height="50%" src="https://github-readme-stats.vercel.app/api?username=eur0nymous&show_icons=true&theme=radical">
-<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eur0nymous&layout=compact&theme=radical">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=eur0nymous&show_icons=true&theme=radical">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eur0nymous&layout=compact&theme=radical">
 <div>
 <br/>
 
