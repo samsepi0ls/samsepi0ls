@@ -9,8 +9,8 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 <div>
 <a href="https://github.com/eur0nymous"></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eur0nymous&show_icons=true&theme=radical">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eur0nymous&layout=compact&theme=radical">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=eur0nymous&show_icons=true&theme=radical">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eur0nymous&layout=compact&theme=radical">
 <div>
 <br/>
 
@@ -41,46 +41,22 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 
 <h2>ℭ𝔶𝔟𝔢𝔯𝔰𝔢𝔠𝔲𝔯𝔦𝔱𝔶</h2>
 
-<div>
-<input type="checkbox" checked>
-<label>Languages: Python and Shell Script</label>
+- [x] Languages: Python and Shell Script
 
-<div>
-<input type="checkbox" checked>
-<label>Metasploit</label>
-</div>
+- [x] Metasploit
 
-<div>
-<input type="checkbox" checked>
-<label>Hydra</label>
-</div>
+- [x] Hydra
 
-<div>
-<input type="checkbox" checked>
-<label>Aircrack</label>
-</div>
+- [x] Aircrack
 
-<div>
-<input type="checkbox" checked>
-<label>SQLMap</label>
-</div>
+- [x] SQLMap
 
-<div>
-<input type="checkbox" checked>
-<label>SET - Social Enginner Tools</label>
-</div>
+- [x] SET - Social Enginner Tools
 
-<div>
-<input type="checkbox" checked>
-<label>TCPDump</label>
-</div>
+- [x] TCPDump
 
-<div>
-<input type="checkbox" checked>
-<label>Hashcat</label>
-</div>
-<br/>
-</div>
+- [x] Hashcat
+
 
 
 <h3>🤘Follow me</h3>
