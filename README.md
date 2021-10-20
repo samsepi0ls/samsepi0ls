@@ -60,11 +60,11 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 
 
 <h3>🤘Follow me</h3>
-<a href="https://linkedin.com/in/eur0nymous">
+<a target="_blank" href="https://linkedin.com/in/eur0nymous">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://open.spotify.com/user/ph45mwps5z222ohbqoipxho5w">
+<a target="_blank" href="https://open.spotify.com/user/ph45mwps5z222ohbqoipxho5w">
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 </a>
 
