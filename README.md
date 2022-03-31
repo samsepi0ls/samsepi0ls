@@ -1,6 +1,6 @@
 # 🤘Hello Friend, I'm João Victor F. Braga
 
-I am an expert in Web Development and Student of Cybersecurity.
+I am an expert in Software Development and Cybersecurity.
 
 A project cannot be done alone, and when it does, it is done well. These repositories represent that goal in an intuitive, beautiful and complete way.⚡️. This profile is a constant weekly evolution of several technical achievements that I have obtained to create something amazing every day!
 
@@ -43,19 +43,27 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 
 - [x] Languages: Python and Shell Script
 
-- [x] Metasploit
+- [x] AppSec
 
-- [x] Hydra
+- [x] Threat Intelligence
 
-- [x] Aircrack
+- [x] Cyber War
 
-- [x] SQLMap
+- [x] Network
 
-- [x] SET - Social Enginner Tools
+- [x] LGPD
 
-- [x] TCPDump
+- [x] Social Enginnering
 
-- [x] Hashcat
+- [x] Clound Computing
+  
+- [x] IoT
+  
+- [x] IT Security Management
+  
+- [x] Unix Systems
+  
+  
 
 
 
