@@ -17,7 +17,7 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 ![](https://64.media.tumblr.com/9bdbeb956bf08d93025644e037172ee0/tumblr_np7jumRhbe1ux2wvpo1_500.gifv)
 
   <div>
-  <h2>𝔚𝔢𝔟 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔪𝔢𝔫𝔱</h2>
+  <h2>𝕾𝖔𝖋𝖙𝖜𝖆𝖗𝖊 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙/h2>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
@@ -35,11 +35,17 @@ A project cannot be done alone, and when it does, it is done well. These reposit
     <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachekafka.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mocha.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/graphql.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/circleci.svg" />
   </div>
 
 <br/>
 
-<h2>ℭ𝔶𝔟𝔢𝔯𝔰𝔢𝔠𝔲𝔯𝔦𝔱𝔶</h2>
+<h2>𝕮𝖞𝖇𝖊𝖗𝖘𝖊𝖈𝖚𝖗𝖎𝖙𝖞</h2>
 
 - [x] Languages: Python and Shell Script
 
