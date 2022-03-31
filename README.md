@@ -55,7 +55,7 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 
 - [x] Social Enginnering
 
-- [x] Clound Computing
+- [x] Cloud Computing
   
 - [x] IoT
   
